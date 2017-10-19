@@ -1,0 +1,58 @@
+﻿body{
+    margin: 0px;
+}
+
+#NaamProject{
+    background-color: lightblue;
+    font-size: 30px;
+    font-family: Castellar;
+    height: 40px;
+}
+
+#NaamProject a{
+    color: white;
+}
+
+#Wachtwoord {
+    font-size: 15px;
+    float: right;
+    margin-top: 8px;
+    margin-right: 5px;
+}
+
+#Wachtwoord label {
+    color: white;
+}
+
+#E-mail {
+    font-size: 15px;
+    float: right;
+    margin-top: 8px;
+}
+
+#E-mail label {
+    color: white;
+}
+
+#KnopInloggen {
+    float: right;
+    margin-right: 10px;
+}
+
+#AccountMaken {
+    border: 1px solid gray;
+    width: 300px;
+    height: 250px;
+    text-align: center;
+    font-family: Arial;
+    margin: auto;
+    color: black;
+    margin-top: 250px;
+    background-color: cadetblue;
+}
+
+
+
+
+
+
